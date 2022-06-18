@@ -1,0 +1,15 @@
+{
+	"id": "80f80ac0-2be2-4a92-8455-196fdd747a21",
+	"name": "Dev",
+	"values": [
+		{
+			"key": "page",
+			"value": "2",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-06-18T08:34:34.291Z",
+	"_postman_exported_using": "Postman/9.21.2"
+}
